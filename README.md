@@ -1,3 +1,1 @@
-# angular-udwzke
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-udwzke)
+Angular based shopping cart application to view a product and buy it.
